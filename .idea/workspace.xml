@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d23f551-c5ed-49d3-a5d9-1cbac3b5c4ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ducksim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad1/zad1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/ducksim.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/FlyingBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/FlyingNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/FlyingWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/MainDuckSim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad4/Squeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad5/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad5/Germany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad5/GreatBritain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad5/Poland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad5/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad5/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad5/taxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/Dojezdzac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/LiteraturaPopularnoNaukowa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/NaprawaSamochodow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/Pracowac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/Pracownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/Rower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/RoznoszenieListow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/Samochod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/Silownia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad6/SpedzanieWolnegoCzasu.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2dkRft3JLfVnps34M2r8OoLSSEv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Shop.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Adrian/Desktop/Zadania/ducksim/src/zad6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Adrian\Desktop\Zadania\ducksim\src\zad6" />
+      <recent name="C:\Users\Adrian\Desktop\Zadania\ducksim\src\zad4" />
+      <recent name="C:\Users\Adrian\Desktop\Zadania\ducksim\src\zad2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d23f551-c5ed-49d3-a5d9-1cbac3b5c4ba" name="Changes" comment="" />
+      <created>1710550198491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710550198491</updated>
+      <workItem from="1710550199582" duration="3421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

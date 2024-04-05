@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d23f551-c5ed-49d3-a5d9-1cbac3b5c4ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zad3/BestEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/badEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad6/mainPracownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Kanonier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Lucznik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Postac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Rycerz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Strzelec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/bron.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad6/Pracownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad6/Pracownik.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.Shop.executor": "Run",
     "Application.carMain.executor": "Run",
     "Application.mainPracownik.executor": "Run",
@@ -61,6 +65,9 @@
       <recent name="C:\Users\Adrian\Desktop\Zadania\ducksim\src\zad4" />
       <recent name="C:\Users\Adrian\Desktop\Zadania\ducksim\src\zad2" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Adrian\Desktop\Zadania\ducksim\src\cw1" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -79,7 +86,7 @@
       <updated>1710550198491</updated>
       <workItem from="1710550199582" duration="3421000" />
       <workItem from="1712165838584" duration="1222000" />
-      <workItem from="1712343624395" duration="2676000" />
+      <workItem from="1712343624395" duration="3947000" />
     </task>
     <servers />
   </component>

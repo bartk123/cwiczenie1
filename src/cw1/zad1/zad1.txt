@@ -1,0 +1,1 @@
+Wzorzec Strategia to elastyczne narzędzie do zarządzania różnymi sposobami wykonania zadania w trakcie działania programu. Dzięki niemu możemy łatwo dodawać nowe sposoby wykonania bez modyfikowania istniejącego kodu klienta. To jednak może zwiększyć złożoność kodu i wymagać dodatkowego nakładu pracy.
